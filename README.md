@@ -1,2 +1,9 @@
-# planet_wars
-Klon počítačové hry Planet Wars (C++, SFML)
+# Planet Wars
+Klon počítačové hry Planet Wars
+
+## Technologie
+- C++
+- SFML
+
+## Zadání
+_TODO_
